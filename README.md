@@ -7,8 +7,8 @@
 - Coding since: 2017
 - Currently learning: Go, Haskell
 - Currently working on: Web apps semestral group project
-- Secondary school: SPŠSE a VOŠ Liberec (graduated 2020)
-- University: MFF UK (currently 2nd year)
+- Secondary school: SPŠSE a VOŠ Liberec - Multimedia and webdesign (graduated 2020)
+- University: MFF UK - IT, Database and web  (currently 2nd year)
 
 ### Languages
 
