@@ -3,8 +3,10 @@
 - Name: Daniel Josef
 - Age: 21
 - Location: Prague, Czechia
+- Languages: Czech, English
 - Coding since: 2017
 - Currently learning: Go, Haskell
+- Currently working on: Web apps semestral group project
 - Secondary school: SPŠSE a VOŠ Liberec (graduated 2020)
 - University: MFF UK (currently 2nd year)
 
@@ -41,3 +43,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanJsef&count_private=true&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=c%23,php,Twig,Shell,Blade)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanJsef&show_icons=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true)
+
+### Projects
+
+- [Websocket chat app](https://github.com/DanJsef/mff_chat_app)
+- [2048 TUI game](https://github.com/DanJsef/mff_2048_cpp)
+- [Chess game (group project)](https://github.com/HumanFace/ChessProject)
+- [others](https://github.com/DanJsef?tab=repositories)
